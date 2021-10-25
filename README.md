@@ -1,0 +1,1 @@
+These scritps can be used to analyse performance problems/issues for Azure SQL databases
